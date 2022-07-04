@@ -10,7 +10,7 @@
   </a>
 </div>
 
-# Hi, I'm Daniel P Z 👋
+# Hi, I'm [Daniel P Z](https://www.danielpz.com) 👋
 
 A FullStack developer from Perú, yea [Machupicchu](https://www.machupicchu.gob.pe/) 😁
 
@@ -40,17 +40,26 @@ A FullStack developer from Perú, yea [Machupicchu](https://www.machupicchu.gob.
     <a href="https://nextjs.org/" title="NextJS" target="_blank">
         <img src="https://raw.githubusercontent.com/dapize/dapize/main/icons/NextJS-Dark.svg" width="40" height="40">
     </a>
+    <a href="https://redux-toolkit.js.org/" title="Redux Toolkit" target="_blank">
+        <img src="https://raw.githubusercontent.com/dapize/dapize/main/icons/Redux.svg" width="40" height="40">
+    </a>
     <a href="https://mui.com" title="MaterialUI" target="_blank">
         <img src="https://raw.githubusercontent.com/dapize/dapize/main/icons/MaterialUI-Light.svg" width="40" height="40">
     </a>
     <a href="https://vuejs.org/" title="VueJS" target="_blank">
         <img src="https://raw.githubusercontent.com/dapize/dapize/main/icons/VueJS-Light.svg" width="40" height="40">
     </a>
+    <a href="https://v3.nuxtjs.org/" title="Nuxt JS" target="_blank">
+        <img src="https://raw.githubusercontent.com/dapize/dapize/main/icons/NuxtJS-Dark.svg" width="40" height="40">
+    </a>
     <a href="https://nodejs.org" title="NodeJS" target="_blank">
         <img src="https://raw.githubusercontent.com/dapize/dapize/main/icons/NodeJS-Light.svg" width="40" height="40">
     </a>
     <a href="https://jestjs.io" title="Jest" target="_blank">
         <img src="https://raw.githubusercontent.com/dapize/dapize/main/icons/Jest.svg" width="40" height="40">
+    </a>
+    <a href="https://www.cypress.io/" title="Cypress" target="_blank">
+        <img src="https://raw.githubusercontent.com/dapize/dapize/main/icons/cypress.svg" width="40" height="40">
     </a>
     <a href="https://www.mongodb.com" title="MongoDB" target="_blank">
         <img src="https://raw.githubusercontent.com/dapize/dapize/main/icons/MongoDB.svg" width="40" height="40">
@@ -61,14 +70,17 @@ A FullStack developer from Perú, yea [Machupicchu](https://www.machupicchu.gob.
     <a href="https://sass-lang.com" title="Sass" target="_blank">
         <img src="https://raw.githubusercontent.com/dapize/dapize/main/icons/Sass.svg" width="40" height="40">
     </a>
+    <a href="https://styled-components.com/" title="StyledComponents" target="_blank">
+        <img src="https://raw.githubusercontent.com/dapize/dapize/main/icons/StyledComponents.svg" width="40" height="40">
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics" title="HTML" target="_blank">
         <img src="https://raw.githubusercontent.com/dapize/dapize/main/icons/HTML.svg" width="40" height="40">
     </a>
-    <a href="https://pugjs.org" title="Pug" target="_blank">
+    <a href="https://svelte.dev/" title="Pug" target="_blank">
         <img src="https://raw.githubusercontent.com/dapize/dapize/main/icons/Pug-Light.svg" width="40" height="40">
     </a>
-    <a href="https://firebase.google.com" title="Firebase" target="_blank">
-        <img src="https://raw.githubusercontent.com/dapize/dapize/main/icons/Firebase-Light.svg" width="40" height="40">
+    <a href="https://pugjs.org" title="Svelte" target="_blank">
+        <img src="https://raw.githubusercontent.com/dapize/dapize/main/icons/Svelte.svg" width="40" height="40">
     </a>
     <a href="https://expressjs.com" title="ExpressJS" target="_blank">
         <img src="https://raw.githubusercontent.com/dapize/dapize/main/icons/ExpressJS-Light.svg" width="40" height="40">
