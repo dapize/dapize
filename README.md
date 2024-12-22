@@ -14,7 +14,6 @@
 
 A FullStack developer from Perú, yea [Machupicchu](https://www.machupicchu.gob.pe/) 😁
 
-- 🔭 I’m currently working on [Globant](https://www.globant.com/) like FrontEnd developer using [React JS](https://reactjs.org/) + [Next JS](https://nextjs.org).
 - 👯 I’m looking to collaborate on any interesting project that try to improve the lives of others.
 - 💬 Ask me about any update in the Tecnology world, I enjoy see any news related with that wonderful world.
 - 📫 You can contact to me to any time, just send me a email to danielpz@outlook.com
